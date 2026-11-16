@@ -1,6 +1,5 @@
 # Detección de amenazas en tráfico de red mediante Machine Learning
 
-<!-- Banner: reemplazar por la imagen definitiva de 800 x 300 -->
 ![Banner del proyecto](banner.png)
 
 **Autores:** [Nombre del autor 1], [Nombre del autor 2], [Nombre del autor 3]
@@ -49,11 +48,15 @@ Las 15 etiquetas originales se agrupan en 8 familias: `BENIGN`, `DoS`, `DDoS`, `
 | [`proyectoML_ablation_rapido.ipynb`](proyectoML_ablation_rapido.ipynb) | Versión rápida del ablation study |
 | [`proyectoML_regresion.ipynb`](proyectoML_regresion.ipynb) | Regresión sobre la duración de los flujos |
 
+## Video de demostración
+
+**▶ [Ver el video de demostración](docs/demo.mp4)** (`docs/demo.mp4`)
+
 ## Enlaces
 
 - **Código:** [Notebooks del repositorio](.)
-- **Video:** pendiente de agregar.
-- **Repositorio:** [Agregar URL del repositorio]
+- **Video:** [Demostración del proyecto](docs/demo.mp4)
+- **Repositorio:** [caponcito/Deteccion_amenazas](https://github.com/caponcito/Deteccion_amenazas)
 
 ## Ejecución
 
