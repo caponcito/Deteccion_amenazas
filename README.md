@@ -2,7 +2,7 @@
 
 ![Banner del proyecto](banner.png)
 
-**Autores:** [Nombre del autor 1], [Nombre del autor 2], [Nombre del autor 3]
+**Autores:** Santiago Capon Florez, Maximiliano Osorio
 
 **Objetivo:** Detectar y clasificar tráfico de red benigno y malicioso, así como estimar la duración de los flujos, mediante modelos de Machine Learning entrenados sobre CIC-IDS2017.
 
